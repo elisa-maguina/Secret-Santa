@@ -2,7 +2,7 @@ import random
 import emoji    
   
 
-santa_recip_list = ['Melissa', 'Ivan', 'Lidia', 'Enrique', 'Matt', 'Elisa', 'Zenaida']
+santa_recip_list = ['NAME1', 'NAME2', 'NAME3', 'NAME4', 'NAME5', 'NAME6', 'NAME7']
 random_santa_recip = random.choice(santa_recip_list)
 max_amount = '$30 (+/- $5)'
 rule_intro = ('The rules for this year are as follows:')
